@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>graphic_redactor_icon.png</file>
+        <file>exit.png</file>
+        <file>open.png</file>
+        <file>save.png</file>
+        <file>button_left.png</file>
+        <file>button_right.png</file>
+        <file>button_left_inactive.png</file>
+        <file>button_right_inactive.png</file>
+    </qresource>
+</RCC>
